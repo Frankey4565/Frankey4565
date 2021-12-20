@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frankey4565
+- 👋 Hi, I’m František
 - 👀 I’m interested in Automation/Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
